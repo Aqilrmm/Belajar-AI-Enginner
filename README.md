@@ -87,12 +87,6 @@ Repository materi pembelajaran untuk menjadi AI Engineer, disusun secara terstru
     - Courses
     - Communities
 
-## Cara Menggunakan
-
-1. Mulai dari materi Prasyarat untuk memastikan fondasi yang kuat
-2. Ikuti urutan materi secara berurutan
-3. Setiap folder berisi README.md dengan detail materi
-4. Praktikkan contoh kode dan latihan yang disediakan
 
 ## Kontribusi
 
